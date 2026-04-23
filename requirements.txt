@@ -1,1 +1,5 @@
-
+Stremlit
+numpy
+pandas
+scikit-learn
+kagglehub
